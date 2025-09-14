@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"proje1/canvas"
+	"github.com/Gursu/GoDenom2/canvas"
 )
 
 func main() {
